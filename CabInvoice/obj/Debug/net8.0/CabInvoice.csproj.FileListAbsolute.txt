@@ -1,0 +1,14 @@
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.exe
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.deps.json
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.runtimeconfig.json
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.dll
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\bin\Debug\net8.0\CabInvoice.pdb
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.AssemblyInfoInputs.cache
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.AssemblyInfo.cs
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.dll
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\refint\CabInvoice.dll
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.pdb
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\CabInvoice.genruntimeconfig.cache
+D:\BridgeLabz\CSHARP\CabInvoice\CabInvoice\obj\Debug\net8.0\ref\CabInvoice.dll
