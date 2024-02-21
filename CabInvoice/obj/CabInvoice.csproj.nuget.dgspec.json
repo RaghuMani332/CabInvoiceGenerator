@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BridgeLabz\\CSHARP\\CabInvoice\\CabInvoice\\CabInvoice.csproj": {}
+    "C:\\Users\\LENOVO\\Source\\Repos\\CabInvoiceGenerator\\CabInvoice\\CabInvoice.csproj": {}
   },
   "projects": {
-    "D:\\BridgeLabz\\CSHARP\\CabInvoice\\CabInvoice\\CabInvoice.csproj": {
+    "C:\\Users\\LENOVO\\Source\\Repos\\CabInvoiceGenerator\\CabInvoice\\CabInvoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BridgeLabz\\CSHARP\\CabInvoice\\CabInvoice\\CabInvoice.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Source\\Repos\\CabInvoiceGenerator\\CabInvoice\\CabInvoice.csproj",
         "projectName": "CabInvoice",
-        "projectPath": "D:\\BridgeLabz\\CSHARP\\CabInvoice\\CabInvoice\\CabInvoice.csproj",
-        "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
-        "outputPath": "D:\\BridgeLabz\\CSHARP\\CabInvoice\\CabInvoice\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Source\\Repos\\CabInvoiceGenerator\\CabInvoice\\CabInvoice.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Source\\Repos\\CabInvoiceGenerator\\CabInvoice\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\srika\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
